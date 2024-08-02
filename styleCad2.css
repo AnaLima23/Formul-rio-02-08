@@ -1,0 +1,37 @@
+
+    body{
+        background-image: url(https://img.freepik.com/vetores-premium/resumo-nude-tan-pastel-bege-pastel-macio-fundo-organico-com-florais-pincel-e-formas-liquidas-para-web-design-postagem-em-midia-social-banner-cartao-de-visita-convite-impressao-folheto-ou-apresentacao_181182-16247.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722470400&semt=ais_hybrid);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        font-family: Arial, Helvetica, sans-serif;
+        max-width: 600px;
+        margin: auto;
+        padding: 20px;
+        background-color: #ead7e4;
+    }
+    label{
+        display: block;
+        margin-bottom: 8px;
+    }
+    label, textarea{
+        width: 100%;
+        padding: 8px;
+        margin: 16px;
+        border:1px solid #ccc;
+        border-radius: 4px;
+    }
+    button{
+        padding: 10px 15px;
+        background-color: #f190f1;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor:pointer;
+        margin-left: 550px;
+    }
+    button:hover{
+        background-color: rgb(233, 52, 166);
+    }
+
+  
